@@ -1,8 +1,23 @@
-Este repositorio contiene dos ejercicios realizados durante el ciclo formativo DAW.  
-Uno corresponde al final de la segunda evaluación y otro a la tercera. Ambos fueron desarrollados siguiendo las indicaciones del aula, con el nivel y 
-estructura que se nos enseñó en ese momento.
+# Ejercicios de Evaluación – Ciclo Formativo DAW
 
-El objetivo de subir estos ejercicios es mostrar el punto de partida técnico que teníamos en clase, y contrastarlo con el proyecto que estoy desarrollando
-por iniciativa propia y como referencia para entender mi evolución como desarrollador y el esfuerzo que estoy haciendo para ir más allá del temario oficial.
+Este repositorio contiene dos ejercicios desarrollados durante el ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**:
 
-[GestorCursos](https://github.com/carlosmi98/GestorCursos).
+-  Uno corresponde al final de la **segunda evaluación**.
+-  El otro fue realizado durante la **tercera evaluación**.
+
+Ambos fueron elaborados siguiendo las indicaciones del aula, respetando el nivel técnico y la estructura que se nos enseñó en ese momento.
+
+## Propósito del repositorio
+
+El objetivo de compartir estos ejercicios es doble:
+
+1. Mostrar el **punto de partida técnico** que teníamos en clase.
+2. Contrastar ese nivel con el proyecto que estoy desarrollando por iniciativa propia, como reflejo de mi evolución como desarrollador y del esfuerzo que estoy haciendo por ir más allá del temario oficial.
+
+## Proyecto en paralelo
+
+Como referencia de ese crecimiento, también estoy desarrollando un proyecto personal más ambicioso:
+
+🔗 [GestorCursos – Proyecto personal en desarrollo](https://github.com/carlosmi98/GestorCursos)
+
+Este proyecto representa mi compromiso con el aprendizaje autónomo y mi interés por aplicar conceptos más avanzados que no se abordaron durante el cuso pasado
